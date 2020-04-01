@@ -97,6 +97,7 @@
      mode: "ntriples", ext: ["nt", "nq"]},
     {name: "Objective-C", mime: "text/x-objectivec", mode: "clike", ext: ["m"], alias: ["objective-c", "objc"]},
     {name: "Objective-C++", mime: "text/x-objectivec++", mode: "clike", ext: ["mm"], alias: ["objective-c++", "objc++"]},
+    {name: "ObjAsm", mime: "text/x-arm-objasm", mode: "arm-objasm"},
     {name: "OCaml", mime: "text/x-ocaml", mode: "mllike", ext: ["ml", "mli", "mll", "mly"]},
     {name: "Octave", mime: "text/x-octave", mode: "octave", ext: ["m"]},
     {name: "Oz", mime: "text/x-oz", mode: "oz", ext: ["oz"]},
